@@ -5,11 +5,11 @@
 
 Operador   | Operação
 :---------: | :------:
-+ | Soma
-- | Subtração
-* | Multiplicação
-/ | Divisão
-% | Módulo
+**+** | Soma
+**-** | Subtração
+***** | Multiplicação
+**/** | Divisão
+**%** | Módulo
 
 
 ## Atribuição
