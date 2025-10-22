@@ -5,7 +5,7 @@
 
 Operador   | Operação
 :---------: | :------:
-+| Soma
++ | Soma
 - | Subtração
 * | Multiplicação
 / | Divisão
