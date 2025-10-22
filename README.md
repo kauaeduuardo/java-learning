@@ -1,4 +1,4 @@
-# ☕ Java Learning Journey
+# ☕ Jornada de Aprendizado Java
 
 > Meu repositório de estudos em **Java**, com códigos, anotações e pequenos projetos que mostram minha evolução desde o básico até o avançado. 🚀  
 
