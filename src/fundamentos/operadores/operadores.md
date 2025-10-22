@@ -7,7 +7,7 @@ Operador   | Operação
 :---------: | :------:
 **+** | Soma
 **-** | Subtração
-'* | Multiplicação
+* | Multiplicação
 **/** | Divisão
 **%** | Módulo
 
