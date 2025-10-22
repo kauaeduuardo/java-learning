@@ -1,5 +1,5 @@
 # Tipos de Operadores 
-****
+
 ## Aritméticos:
 **Usados para operações matemáticas básicas.**
 
