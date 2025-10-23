@@ -32,7 +32,7 @@ Este repositório serve como:
 
 ## 🧭 Próximos passos
 
-- [ ] Adicionar materias sobre POO  
+- [ ] Adicionar materiais sobre POO  
 - [ ] Criar pequenos projetos com interface gráfica (JavaFX ou Swing)  
 - [ ] Documentar cada módulo com anotações e resumos  
 
