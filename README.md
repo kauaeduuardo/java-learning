@@ -10,7 +10,7 @@
 |-------|-----------|
 | **introducao** | Primeiros códigos, sintaxe básica e fundamentos da linguagem |
 | **fundamentos** | Tipos de dados, operadores, controle de fluxo e arrays |
-| **poo** | Logo menos...
+| **poo** | Classes e objetos, encapsulamento, herança, polimorfismo e interface |
 
 ---
 
