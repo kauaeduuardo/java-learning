@@ -1,5 +1,5 @@
 # Projeto 1: 📗 Sistema de Notas
-****
+
 **Objetivo:** Praticar conceitos fundamentais em 
 lógica de programação. Estes incluem: 
 - Variáveis e tipos primitivos;
