@@ -11,6 +11,7 @@
 | **introducao** | Primeiros códigos, sintaxe básica e fundamentos da linguagem |
 | **fundamentos** | Tipos de dados, operadores, controle de fluxo e arrays |
 | **poo** | Classes e objetos, encapsulamento, herança, polimorfismo e interface |
+| **projetos** | Colocando conceitos em prática|
 
 ---
 
