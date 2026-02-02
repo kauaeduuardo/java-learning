@@ -14,6 +14,6 @@ public class Gerente extends Funcionario {
 
     @Override
     public void imprime() {
-        System.out.println("gerente imprime!");
+        System.out.println("gerente imprime...");
     }
 }
