@@ -2,12 +2,14 @@
 /shelf/
 /workspace.xml
 
-# IntelliJ IDEA
+# Build
+/target/
+/bin/
+/out/
+
+# Logs
+*.log
+
+# IntelliJ
 .idea/
 *.iml
-
-# Build / saída
-out/
-
-# Git (nunca versionar repositório dentro de repositório)
-.git/
