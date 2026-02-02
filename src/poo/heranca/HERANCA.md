@@ -1,4 +1,4 @@
-### 🧬 3. Herança
+### 🧬 Herança
 
 #### Conceito
 Herança é o mecanismo que permite que uma classe **filha** herde atributos e métodos de uma classe **mãe**.
