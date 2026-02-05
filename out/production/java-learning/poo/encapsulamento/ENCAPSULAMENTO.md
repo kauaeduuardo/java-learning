@@ -1,11 +1,11 @@
-### 🔒 2. Encapsulamento
+### 🔒 Encapsulamento
 
 #### Conceito
 O encapsulamento protege os dados internos de um objeto contra acessos indevidos. \
 Ele faz isso através de **modificadores de acesso** (`private`, `public`) e métodos de acesso (`get` e `set`).
 
 #### Analogia
-> É como um cofre: você não abre o cofre por dentro do código, mas usa \ 
+> É como um cofre: você não abre o cofre por dentro do código, mas usa    
 > chaves (métodos) para acessar ou alterar o valor guardado.
 
 #### Exemplo

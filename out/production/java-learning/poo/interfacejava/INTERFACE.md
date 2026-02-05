@@ -1,4 +1,4 @@
-### 🔌 5. Interface
+### 🔌 Interface
 
 #### Conceito
 Uma **interface** define um **contrato:** um conjunto de métodos que uma classe deve obrigatoriamente implementar. \

@@ -1,4 +1,4 @@
-### ⚙️ 1. Classes e Objetos
+### ⚙️ Classes e Objetos
 
 #### Conceito
 * **Classe:** é o *molde* ou *modelo* que define como um objeto será.

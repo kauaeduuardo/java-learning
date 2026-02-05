@@ -33,5 +33,9 @@ public class Programador extends Funcionario {
 `Funcionario` define o que deve existir.  
 `Programador` decide como isso funciona.
 
-📌 **Ponto crítico:**
-Uma classe concreta é obrigada a implementar todos os métodos abstratos herdados.
+📌 **Algumas Observações:**  
+- Uma classe **concreta** é obrigada a implementar todos os métodos abstratos herdados.
+- Uma classe **abstrata** pode ter métodos concretos e atributos.
+- Em uma classe **abstrata** que herda de uma também abstrata, não é obrigatório implementar 
+os métodos abstratos, embora seja possível.
+- Não é possível criar um método abstrato em uma classe **concreta**.
