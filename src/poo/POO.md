@@ -13,11 +13,11 @@ e características (atributos).
 ---
 
 **Programação Orientada a Objetos (POO)**
-- 📦 [Classes e Objetos](classesobjetos/CLASSESEOBJETOS.md)
-- 🔒 [Encapsulamento](encapsulamento/ENCAPSULAMENTO.md)
-- 🔗 [Associação](associacao/ASSOCIACAO.md)
-- 🌳 [Herança](heranca/HERANCA.md)
-- 🧩 [Enumeração](enumeracao/ENUMERACAO.md)
-- 🧠 [Classes Abstratas](classesabstratas/CLASSESABSTRATAS.md)
-- 🤝 [Interfaces](interfaces/INTERFACES.md)
+- [Classes e Objetos](classesobjetos/CLASSESEOBJETOS.md)
+- [Encapsulamento](encapsulamento/ENCAPSULAMENTO.md)
+- [Associação](associacao/ASSOCIACAO.md)
+- [Herança](heranca/HERANCA.md)
+- [Enumeração](enumeracao/ENUMERACAO.md)
+- [Classes Abstratas](classesabstratas/CLASSESABSTRATAS.md)
+- [Interfaces](interfaces/INTERFACES.md)
 
