@@ -4,6 +4,16 @@
 
 ---
 
+## 🗂️ Estrutura do Repositório
+
+| Pasta | Conteúdo |
+|-------|-----------|
+| **introducao** | Primeiros códigos, sintaxe básica e fundamentos da linguagem |
+| **fundamentos** | Tipos de dados, operadores, controle de fluxo e arrays |
+| **poo** | Classes e objetos, encapsulamento, herança, polimorfismo e interface |
+
+---
+
 ## 💡 Objetivo
 
 Este repositório serve como:
