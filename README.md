@@ -30,19 +30,4 @@ Este repositório serve como:
 
 ---
 
-## 🤝 Contribuições
-
-Este é um repositório de aprendizado pessoal, mas **sugestões e melhorias são bem-vindas**.  
-Abra uma *issue* ou envie um *pull request*! 😄
-
----
-
-## 🧑‍💻 Autor
-
-**Kauã E.**  
-👨🏼‍🎓 Estudante de Sistemas de Informação  
-💼 Focado em Java e automações n8n  
-🌐 [LinkedIn](https://linkedin.com/in/kauã-eduardo-a2796533b)
-
----
 
