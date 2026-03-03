@@ -1,4 +1,4 @@
-### 🔒 Enumeração
+### 🔢 Enumeração
 
 #### Conceito
 * **Enumeração (enum):** é um tipo especial de classe usado para representar um conjunto fixo e finito de valores válidos.
