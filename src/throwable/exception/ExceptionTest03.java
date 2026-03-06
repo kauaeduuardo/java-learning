@@ -4,13 +4,12 @@ import java.io.File;
 import java.io.FileReader;
 import java.io.IOException;
 
-public class Exception {
+public class ExceptionTest03 {
     static void main(String[] args) {
-        // Exceções checadas devem ser explicitamente tratadas ou o programa finaliza
         try {
-            lerArquivo("dados.txt"); // ler arquivo lança uma exceção
-        } catch (IOException e) { // captura e exibe qual foi o problema
-            System.out.println("Erro ao ler arquivo." + e.getMessage());
+            lerArquivo("dados.txt");
+        } catch (IOException e) {
+            System.out.println("erro:" + e.getMessage());
         }
         System.out.println("Fim da execução.");
     }
