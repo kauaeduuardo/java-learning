@@ -29,5 +29,14 @@ Este repositório serve como:
 - IDEs utilizadas: IntelliJ IDEA 
 
 ---
+**Atalhos para anotações:**
+- [Classes e Objetos](src/poo/classesobjetos/CLASSESEOBJETOS.md)
+- [Encapsulamento](src/poo/encapsulamento/ENCAPSULAMENTO.md)
+- [Associação](src/poo/associacao/ASSOCIACAO.md)
+- [Herança](src/poo/heranca/HERANCA.md)
+- [Enumeração](src/poo/enumeracao/ENUMERACAO.md)
+- [Classes Abstratas](src/poo/classesabstratas/CLASSESABSTRATAS.md)
+- [Interfaces](src/poo/interfaces/INTERFACES.md)
+- [Polimorfismo](src/poo/polimorfismo/POLIMORFISMO.md)
 
 
