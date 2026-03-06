@@ -38,5 +38,6 @@ Este repositório serve como:
 - [Classes Abstratas](src/poo/classesabstratas/CLASSESABSTRATAS.md)
 - [Interfaces](src/poo/interfaces/INTERFACES.md)
 - [Polimorfismo](src/poo/polimorfismo/POLIMORFISMO.md)
+- [Exceções](src/throwable/EXCEPTIONS.md)
 
 
