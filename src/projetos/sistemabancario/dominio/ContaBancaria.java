@@ -1,4 +1,4 @@
-package projetospt2.sistemabancario.dominio;
+package projetos.sistemabancario.dominio;
 
 public class ContaBancaria {
     private String nomeDotitular;

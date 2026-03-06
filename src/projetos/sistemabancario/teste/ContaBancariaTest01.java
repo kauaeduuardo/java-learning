@@ -1,6 +1,6 @@
-package projetospt2.sistemabancario.teste;
+package projetos.sistemabancario.teste;
 
-import projetospt2.sistemabancario.dominio.ContaBancaria;
+import projetos.sistemabancario.dominio.ContaBancaria;
 
 import java.util.Scanner;
 
