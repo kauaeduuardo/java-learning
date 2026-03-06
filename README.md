@@ -29,7 +29,7 @@ Este repositório serve como:
 - IDEs utilizadas: IntelliJ IDEA 
 
 ---
-Atalhos:
+**Atalhos para anotações:**
 - [Classes e Objetos](src/poo/classesobjetos/CLASSESEOBJETOS.md)
 - [Encapsulamento](src/poo/encapsulamento/ENCAPSULAMENTO.md)
 - [Associação](src/poo/associacao/ASSOCIACAO.md)
