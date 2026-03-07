@@ -16,6 +16,7 @@ public class ContaBancariaTest01 {
         nome = scan.nextLine();
 
         ContaBancaria contaBancaria = new ContaBancaria(nome);
+        ContaBancaria contaBancaria2 = new ContaBancaria("Cláudio");
 
         while (true) {
             exibirMenuOpcoes();
@@ -24,6 +25,7 @@ public class ContaBancariaTest01 {
             switch (opcao) {
                 case 1:
                     contaBancaria.exibirSaldo();
+                    contaBancaria2.exibirSaldo();
                     break;
                 case 2:
                     System.out.print("Valor do saque: ");
@@ -34,6 +36,11 @@ public class ContaBancariaTest01 {
                     System.out.print("Valor depósito: ");
                     saldoControle = scan.nextDouble();
                     contaBancaria.depositar(saldoControle);
+                    break;
+                case 4:
+                    System.out.print("Valor da transferência: ");
+                    saldoControle = scan.nextDouble();
+                    contaBancaria.transferencia(contaBancaria2, saldoControle);
                     break;
                 case 0:
                     System.out.println("saindo...");
@@ -50,6 +57,7 @@ public class ContaBancariaTest01 {
                 "[1] --- Ver Saldo\n" +
                 "[2] --- Sacar\n" +
                 "[3] --- Depositar\n" +
+                "[4] --- Transferir\n" +
                 "[0] --- Sair\n> "
         );
     }

@@ -19,7 +19,7 @@ Throwable
 ```
 
 **Error**
-Representa falhas graves do ambiente de execução, sem possibilidade de recuperação pelo programa.
+Representa falhas graves do ambiente de execução, sem possibilidade de recuperação pelo programa.  
 Exemplo clássico: `StackOverflowError`, que ocorre quando chamadas recursivas esgotam o espaço disponível na pilha.
 
 **RuntimeException — Unchecked**
